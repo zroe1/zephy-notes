@@ -1,0 +1,25 @@
+Open Problems in Technical AI Governance
+
+Link: https://arxiv.org/pdf/2407.14981
+Date: July 20th 2024
+
+Key definitions:
+----------------
+* "technical AI governance (TAIG), defined as technical analysis and tools for 
+   supporting the effective governance of AI."
+* Capacities: Assessment, Access, Verification, Security, Operationalization,
+  Ecosystem Monitoring
+* Targets: Data, Compute, Models and Algorithms, Deployment
+
+
+Section 1.1: Relation to AI Governance
+--------------------------------------
+* TAIG can identify areas where governance intervention is needed
+* TAIG can inform governance decisions
+* TAIG can enhance governance options
+
+Section 1.2: Scope and Limitations
+----------------------------------
+* "techno-solutionism" may neglect non-technical problems bottlenecking safety
+* solutions could be dual use
+
